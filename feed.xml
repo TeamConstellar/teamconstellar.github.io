@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost//" rel="alternate" type="text/html" /><updated>2017-10-15T22:29:01+08:00</updated><id>http://localhost//</id><title type="html">Constellar</title><subtitle>A team formed in 2017 to innovate.</subtitle><author><name>Constellar</name></author><entry><title type="html">Our Mindmap</title><link href="http://localhost//2017/10/15/Our-Mindmap.html" rel="alternate" type="text/html" title="Our Mindmap" /><published>2017-10-15T00:00:00+08:00</published><updated>2017-10-15T00:00:00+08:00</updated><id>http://localhost//2017/10/15/Our-Mindmap</id><content type="html" xml:base="http://localhost//2017/10/15/Our-Mindmap.html">&lt;p&gt;Download: &lt;a href=&quot;/pdf/mindmap.pdf&quot;&gt;mindmap.pdf&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="http://localhost//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost//" rel="alternate" type="text/html" /><updated>2017-10-22T21:44:55+08:00</updated><id>http://localhost//</id><title type="html">Constellar</title><subtitle>A team formed in 2017 to innovate.</subtitle><author><name>Constellar</name></author><entry><title type="html">Survey Draft</title><link href="http://localhost//2017/10/21/Survey-Draft.html" rel="alternate" type="text/html" title="Survey Draft" /><published>2017-10-21T00:00:00+08:00</published><updated>2017-10-21T00:00:00+08:00</updated><id>http://localhost//2017/10/21/Survey-Draft</id><content type="html" xml:base="http://localhost//2017/10/21/Survey-Draft.html">&lt;p&gt;Download: &lt;a href=&quot;/pdf/survey.pdf&quot;&gt;survey.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Read more to view online. Note: devices with small screens please visit &lt;a href=&quot;/pdf.js/viewer.html?file=/pdf/survey.pdf&quot;&gt;this link&lt;/a&gt; directly.
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;iframe class=&quot;pdf&quot; id=&quot;survey&quot; src=&quot;/pdf.js/viewer.html?file=/pdf/survey.pdf&quot; width=&quot;800&quot; height=&quot;600&quot;&gt;&lt;/iframe&gt;</content><author><name>Constellar</name></author><category term="field-research" /><summary type="html">Download: survey.pdf Read more to view online. Note: devices with small screens please visit this link directly.</summary></entry><entry><title type="html">Interview Draft</title><link href="http://localhost//2017/10/21/Interview-Draft.html" rel="alternate" type="text/html" title="Interview Draft" /><published>2017-10-21T00:00:00+08:00</published><updated>2017-10-21T00:00:00+08:00</updated><id>http://localhost//2017/10/21/Interview-Draft</id><content type="html" xml:base="http://localhost//2017/10/21/Interview-Draft.html">&lt;p&gt;Download: &lt;a href=&quot;/pdf/interview.pdf&quot;&gt;interview.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Read more to view online. Note: devices with small screens please visit &lt;a href=&quot;/pdf.js/viewer.html?file=/pdf/interview.pdf&quot;&gt;this link&lt;/a&gt; directly.
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;iframe class=&quot;pdf&quot; id=&quot;interview&quot; src=&quot;/pdf.js/viewer.html?file=/pdf/interview.pdf&quot; width=&quot;800&quot; height=&quot;600&quot;&gt;&lt;/iframe&gt;</content><author><name>Constellar</name></author><category term="field-research" /><summary type="html">Download: interview.pdf Read more to view online. Note: devices with small screens please visit this link directly.</summary></entry><entry><title type="html">Field Research Plan</title><link href="http://localhost//2017/10/18/Field-Research-Plan.html" rel="alternate" type="text/html" title="Field Research Plan" /><published>2017-10-18T00:00:00+08:00</published><updated>2017-10-18T00:00:00+08:00</updated><id>http://localhost//2017/10/18/Field-Research-Plan</id><content type="html" xml:base="http://localhost//2017/10/18/Field-Research-Plan.html">&lt;p&gt;*. 目标：了解各类人群对停车场的现有看法和改进意见
+*. 计划：
+    1. 设计问卷
+        1. 于10/21日前完成
+        2. 问卷应当定性了解利益相关方的意见
+        3. 问卷应当覆盖：
+			1. 地下停车场环境问题
+			2. 地下停车场寻路问题
+			3. 地下停车场交通事故
+			4. 地下停车场空间是否狭小
+		4. 对于可以定量分析的问题，采取定量问题
+	2. 分发问卷
+	1. 于10/25前完成
+	2. 分发途径
+		*. 线上
+			*. 各类QQ群
+			*. 朋友圈
+			*. 委托家长发朋友圈
+		*. 线下（待定）
+			*. 校内/校园周边散发问卷（可能需要适当附赠奖品）
+	3. 统计问卷数据
+		*. 线上问卷导出csv，便于进一步处理
+		*. 线下问卷应在每日分发结束后当晚完成统计，并录入电脑，保存格式应与线上问卷导出格式一致，便于进一步处理
+			*. 应注意甄别无效问卷
+	3. 对利益相关方进行访谈
+		1. 于10/24与10/27完成
+		2. 主要采访人群：
+			1. 用户
+			2. 地下停车场保安
+		3. 访谈问题设计应于10/22前完成&lt;/p&gt;</content><author><name>Constellar</name></author><category term="field-research" /><summary type="html">*. 目标：了解各类人群对停车场的现有看法和改进意见 *. 计划： 1. 设计问卷 1. 于10/21日前完成 2. 问卷应当定性了解利益相关方的意见 3. 问卷应当覆盖： 1. 地下停车场环境问题 2. 地下停车场寻路问题 3. 地下停车场交通事故 4. 地下停车场空间是否狭小 4. 对于可以定量分析的问题，采取定量问题 2. 分发问卷 1. 于10/25前完成 2. 分发途径 *. 线上 *. 各类QQ群 *. 朋友圈 *. 委托家长发朋友圈 *. 线下（待定） *. 校内/校园周边散发问卷（可能需要适当附赠奖品） 3. 统计问卷数据 *. 线上问卷导出csv，便于进一步处理 *. 线下问卷应在每日分发结束后当晚完成统计，并录入电脑，保存格式应与线上问卷导出格式一致，便于进一步处理 *. 应注意甄别无效问卷 3. 对利益相关方进行访谈 1. 于10/24与10/27完成 2. 主要采访人群： 1. 用户 2. 地下停车场保安 3. 访谈问题设计应于10/22前完成</summary></entry><entry><title type="html">Our Mindmap</title><link href="http://localhost//2017/10/15/Our-Mindmap.html" rel="alternate" type="text/html" title="Our Mindmap" /><published>2017-10-15T00:00:00+08:00</published><updated>2017-10-15T00:00:00+08:00</updated><id>http://localhost//2017/10/15/Our-Mindmap</id><content type="html" xml:base="http://localhost//2017/10/15/Our-Mindmap.html">&lt;p&gt;Download: &lt;a href=&quot;/pdf/mindmap.pdf&quot;&gt;mindmap.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Read more to view online. Note: devices with small screens please visit &lt;a href=&quot;/pdf.js/viewer.html?file=/pdf/mindmap.pdf&quot;&gt;this link&lt;/a&gt; directly.
 &lt;!--more--&gt;&lt;/p&gt;
